@@ -7,7 +7,7 @@
 ### About Me
 I'm a high school senior interested in studying Computer Science in college! I've programmed since 2014, which is when I started learning JavaScript. I enjoy thinking through difficult logic problems, so I feel that computer science is the perfect fit for me. Although my main area of interest is machine learning, I also like developing games and programming robots.
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<a href=#><img src="commitcalendar.svg"></a>
 
 ### Proficient Languages and Technologies
 <div>
