@@ -33,7 +33,7 @@ I'm a high school senior interested in studying Computer Science in college! I'v
 ### My GitHub Stats
 [![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevalshah2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalshah2005&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kevalshah2005)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **kevalshah2005/kevalshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
