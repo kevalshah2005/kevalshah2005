@@ -28,7 +28,7 @@ I'm a sophomore studying Computer Science at the University of Texas at Dallas! 
 
 
 ### My GitHub Stats
-[![General Stats](https://github-readme-stats.vercel.app/api?username=kevalshah2005&theme=radical)]
+[![General Stats](https://github-readme-stats.vercel.app/api?username=kevalshah2005&theme=radical)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevalshah2005&theme=radical)]
 
