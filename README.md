@@ -28,13 +28,13 @@ I'm a sophomore studying Computer Science at the University of Texas at Dallas! 
 
 
 ### My GitHub Stats
-[![General Stats](https://github-readme-stats.vercel.app/api?username=kevalshah2005&theme=radical)
+![General Stats](https://github-readme-stats.vercel.app/api?username=kevalshah2005&theme=radical)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevalshah2005&theme=radical)]
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevalshah2005&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalshah2005&theme=radical&langs_count=10&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalshah2005&theme=radical&langs_count=10&layout=compact)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=kevalshah2005)]
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevalshah2005)
 
 <!--
 **kevalshah2005/kevalshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
