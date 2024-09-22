@@ -34,7 +34,7 @@ I'm a junior studying Computer Science at the University of Texas at Dallas! I'v
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevalshah2005&theme=radical&langs_count=10&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kevalshah2005)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kevalshah2005&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **kevalshah2005/kevalshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
