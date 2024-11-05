@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-I'm a junior studying Computer Science at the University of Texas at Dallas! I've programmed since 2014, when I started learning JavaScript. I enjoy thinking through difficult logic problems, so I feel that computer science is the perfect fit for me. Although my main area of interest is ML/AI and Data Science, I also like developing games and programming robots.
+I'm a junior studying Computer Science at the University of Texas at Dallas! I've programmed since 2014, when I started learning JavaScript. I enjoy thinking through difficult logic problems, so I feel that computer science is the perfect fit for me. In particular, I like to work with ML/AI, Data Science, game development, and robotics.
 
 <a href=#><img src="commitcalendar.svg"></a>
 
